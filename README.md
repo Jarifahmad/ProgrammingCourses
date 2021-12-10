@@ -4,5 +4,5 @@
 ⚫ Programming hero full web development course - (https://www.programming-hero.com/) <br>
 ⚫ Frontend developement course - (https://www.arriqaaq.com/learn-frontend/) <br>
 <br>
-<b>Ongoing</b> <br>
+<b>On-going</b> <br>
 ⚫ Vuejs - (https://www.vuemastery.com/) <br>
